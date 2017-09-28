@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 import shelve
 from flask import Flask, request, render_template, redirect, escape, Markup
 from datetime import datetime
